@@ -1,0 +1,20 @@
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\bin\Debug\2023_beadando.exe.config
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\bin\Debug\2023_beadando.exe
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\bin\Debug\2023_beadando.pdb
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\obj\Debug\_2023_beadando.Form1.resources
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\obj\Debug\_2023_beadando.Properties.Resources.resources
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\obj\Debug\2023_beadando.csproj.GenerateResource.cache
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\obj\Debug\2023_beadando.csproj.CoreCompileInputs.cache
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\obj\Debug\2023_beadando.exe
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\obj\Debug\2023_beadando.pdb
+H:\11.c\aaf\c#\2023_beadando\2023_beadando\obj\Debug\2023_beadando.csproj.AssemblyReference.cache
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\bin\Debug\2023_beadando.exe.config
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\bin\Debug\2023_beadando.exe
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\bin\Debug\2023_beadando.pdb
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\obj\Debug\2023_beadando.csproj.AssemblyReference.cache
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\obj\Debug\_2023_beadando.Form1.resources
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\obj\Debug\_2023_beadando.Properties.Resources.resources
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\obj\Debug\2023_beadando.csproj.GenerateResource.cache
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\obj\Debug\2023_beadando.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\obj\Debug\2023_beadando.exe
+C:\Users\User\Documents\kozgaz 10.c\11c\aaf\2023_beadando\2023_beadando\obj\Debug\2023_beadando.pdb
